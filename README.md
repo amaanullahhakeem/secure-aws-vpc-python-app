@@ -12,4 +12,5 @@ For security, the servers are not directly exposed to the internet. Outbound int
 
 The project showcases real-world concepts such as network isolation, high availability, load balancing, and secure internet access forprivate resources.
 
+<img width="611" height="481" alt="vpc-example-private-subnets" src="https://github.com/user-attachments/assets/13dfbed1-12db-4661-b565-5bcd3dc1e378" />
 

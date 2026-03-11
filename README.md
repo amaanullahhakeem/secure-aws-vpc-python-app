@@ -14,3 +14,6 @@ The project showcases real-world concepts such as network isolation, high availa
 
 <img width="611" height="481" alt="vpc-example-private-subnets" src="https://github.com/user-attachments/assets/13dfbed1-12db-4661-b565-5bcd3dc1e378" />
 
+
+<img width="1252" height="1168" alt="python3 app" src="https://github.com/user-attachments/assets/58a061f1-3823-41e6-8d87-b64c55082be8" />
+

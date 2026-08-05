@@ -17,3 +17,7 @@ The project showcases real-world concepts such as network isolation, high availa
 
 <img width="1252" height="1168" alt="python3 app" src="https://github.com/user-attachments/assets/58a061f1-3823-41e6-8d87-b64c55082be8" />
 
+Able to access it via browser:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe229b78-102c-49b2-b25b-d9666c475cb5" />
+
+
